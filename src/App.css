@@ -1,0 +1,43 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+.Navbar{
+  background-color: #F55A5A;
+  height: 6vh;
+  display: flex;
+  justify-content: center;
+  color: white;
+  padding:10px;
+}
+.world{
+  padding: 2px 8px;
+  height: 4vh;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  background-image: url(https://tse1.mm.bing.net/th?id=OIP.DM_UZ92HR0P_YH8oNrp4oAHaEo&pid=Api&P=0);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.image{
+  height: 55vh;
+  width: 25vw;
+  border-radius: 15px;
+  padding: 20px;
+}
+.loc{
+  letter-spacing: 2px;
+}
+.ggl{
+  color:rgb(0, 145, 255);
+  text-decoration: none;
+}
+h1{
+  padding:5px;
+}
+.details{
+   width:30vw;
+   margin-top: 10vh;
+}
